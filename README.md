@@ -1,2 +1,12 @@
-# Embedded-Friendly-Linked-List-Driver
-A lightweight, modular linked list driver written in C. Designed for embedded systems and systems programming, with a simple API for adding, deleting, inserting,  and traversing nodes.
+# Linked List Driver in C
+
+This is a lightweight, modular linked list driver implemented in C. It is designed with embedded system constraints in mind, keeping memory usage and performance efficient. The project includes basic APIs for initialization, addition, deletion, and traversal of nodes.
+
+## Features
+
+- Singly linked list implementation
+- Simple and clean C API
+- Dynamic memory allocation using `malloc`
+- Suitable for embedded system experiments or educational use
+- Includes testable main function
+
